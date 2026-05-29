@@ -1,0 +1,12 @@
+[Seeder] Arquivo 'file_A_10K.bin' carregado: 10 blocos, SHA256=82bb2633b6f175b3ab1d7ac0ac24d9b19c4d283427987739d8fe85eb95eeece3
+[Servidor] Ouvindo em 127.0.0.1:6000
+[Cliente] Falha na conexão com 127.0.0.1:6001: [Errno 111] Connection refused. Retentando em 2s...
+[Cliente] Conectado a 127.0.0.1:6000
+[Servidor] Handshake OK com ('127.0.0.1', 60446)
+[Servidor] Conexão com ('127.0.0.1', 60446) encerrada: Conexão fechada pelo par
+
+[FINAL] Arquivo remontado: received_file_A_10K.bin
+Tamanho: 10240 bytes
+SHA256 original : 82bb2633b6f175b3ab1d7ac0ac24d9b19c4d283427987739d8fe85eb95eeece3
+SHA256 calculado: 82bb2633b6f175b3ab1d7ac0ac24d9b19c4d283427987739d8fe85eb95eeece3
+[OK] Integridade verificada com sucesso!

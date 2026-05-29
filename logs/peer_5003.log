@@ -1,0 +1,25 @@
+[DEBUG] IP deste peer: 127.0.0.1, porta: 5003
+[DEBUG] Lista bruta de vizinhos: 127.0.0.1:5000,127.0.0.1:5001,127.0.0.1:5002
+[DEBUG] Lista final de vizinhos: [('127.0.0.1', 5000), ('127.0.0.1', 5001), ('127.0.0.1', 5002)]
+[DEBUG] Modo seed: False
+[Servidor] Ouvindo em 127.0.0.1:5003
+[Cliente] Conectado a 127.0.0.1:5001
+[Cliente] Conectado a 127.0.0.1:5000
+[Metadados] Arquivo: 10 blocos de 1024 B, SHA256=6f39dc66e7742ab3f31df94b6504ed9381c31186f474fdd03c844d58d65ac3a9
+[Cliente] Bloco 8 recebido de 127.0.0.1:5000 (1/10)
+[Cliente] Bloco 7 recebido de 127.0.0.1:5000 (2/10)
+[Cliente] Bloco 3 recebido de 127.0.0.1:5000 (3/10)
+[Cliente] Bloco 0 recebido de 127.0.0.1:5000 (4/10)
+[Cliente] Bloco 5 recebido de 127.0.0.1:5000 (5/10)
+[Cliente] Bloco 4 recebido de 127.0.0.1:5000 (6/10)
+[Cliente] Bloco 1 recebido de 127.0.0.1:5000 (7/10)
+[Cliente] Bloco 6 recebido de 127.0.0.1:5000 (8/10)
+[Cliente] Bloco 9 recebido de 127.0.0.1:5000 (9/10)
+[Cliente] Bloco 2 recebido de 127.0.0.1:5000 (10/10)
+
+[FINAL] Arquivo remontado: received_file_A_10K.bin
+Tamanho: 10240 bytes
+SHA256 original : 6f39dc66e7742ab3f31df94b6504ed9381c31186f474fdd03c844d58d65ac3a9
+SHA256 calculado: 6f39dc66e7742ab3f31df94b6504ed9381c31186f474fdd03c844d58d65ac3a9
+[OK] Integridade verificada com sucesso!
+[Cliente] Vizinho 127.0.0.1:5001 respondeu erro: No metadata yet
